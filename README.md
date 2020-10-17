@@ -1,1 +1,1 @@
-# barcode
+# Jquery barcode Generator
